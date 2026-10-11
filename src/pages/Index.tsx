@@ -153,7 +153,7 @@ const Index = () => {
                 <p>सक्रिय सदस्य</p>
               </div>
               <div className="text-center p-6 bg-purple-gradient text-white rounded-2xl shadow-md">
-                <div className="font-bold text-4xl mb-2">10</div>
+                <div className="font-bold text-4xl mb-2">11</div>
                 <p>वर्षांची अविरत सेवा</p>
               </div>
               <div className="text-center p-6 bg-orange-gradient text-white rounded-2xl shadow-md">
