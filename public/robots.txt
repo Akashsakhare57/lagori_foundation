@@ -1,0 +1,15 @@
+
+User-agent: *
+Allow: /
+
+# Priority pages
+Allow: /about
+Allow: /activities
+Allow: /awards
+Allow: /contact
+
+# Sitemap location
+Sitemap: https://www.lagorifoundation.in/sitemap.xml
+
+# Crawl delay to avoid overloading server
+Crawl-delay: 5
